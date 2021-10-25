@@ -1,0 +1,10 @@
+﻿  zadatak_4.cpp
+C:\Users\stipe\source\repos\VS_c\Vjezba1_oop\zadatak_4\zadatak_4.cpp(6,38): error C2143: syntax error: missing ',' before '-'
+C:\Users\stipe\source\repos\VS_c\Vjezba1_oop\zadatak_4\zadatak_4.cpp(10,16): error C2065: 'minim': undeclared identifier
+C:\Users\stipe\source\repos\VS_c\Vjezba1_oop\zadatak_4\zadatak_4.cpp(12,4): error C2065: 'minim': undeclared identifier
+C:\Users\stipe\source\repos\VS_c\Vjezba1_oop\zadatak_4\zadatak_4.cpp(14,21): error C2065: 'maks': undeclared identifier
+C:\Users\stipe\source\repos\VS_c\Vjezba1_oop\zadatak_4\zadatak_4.cpp(16,4): error C2065: 'maks': undeclared identifier
+C:\Users\stipe\source\repos\VS_c\Vjezba1_oop\zadatak_4\zadatak_4.cpp(18,35): error C2065: 'minim': undeclared identifier
+C:\Users\stipe\source\repos\VS_c\Vjezba1_oop\zadatak_4\zadatak_4.cpp(18,42): error C2065: 'maks': undeclared identifier
+C:\Users\stipe\source\repos\VS_c\Vjezba1_oop\zadatak_4\zadatak_4.cpp(37,39): error C2660: 'recursiveMinMax': function does not take 4 arguments
+C:\Users\stipe\source\repos\VS_c\Vjezba1_oop\zadatak_4\zadatak_4.cpp(6,6): message : see declaration of 'recursiveMinMax'
