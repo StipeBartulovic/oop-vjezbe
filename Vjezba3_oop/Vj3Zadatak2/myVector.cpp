@@ -3,7 +3,7 @@
 #include "myVector.hpp"
 using namespace std;
 
-void vectorAndNumOfElements(vector<int>& vect, int n) {
+void vectorInput(vector<int>& vect, int n) {
 	int num = 0;
 	for (int i = 0; i < n; i++) {
 		cin >> num;
