@@ -1,0 +1,12 @@
+﻿  Zadatak1.cpp
+C:\Users\stipe\source\repos\VS_c\Vjezba5\Zadatak1\Zadatak1.cpp(48,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\stipe\source\repos\VS_c\Vjezba5\Zadatak1\Zadatak1.cpp(49,20): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\stipe\source\repos\VS_c\Vjezba5\Zadatak1\Zadatak1.cpp(53,33): error C2059: syntax error: 'user-defined literal'
+C:\Users\stipe\source\repos\VS_c\Vjezba5\Zadatak1\Zadatak1.cpp(62,30): error C3688: invalid literal suffix 'D'; literal operator or literal operator template 'operator ""D' not found
+C:\Users\stipe\source\repos\VS_c\Vjezba5\Zadatak1\Zadatak1.cpp(62,32): error C2660: 'dot::lenght_2D': function does not take 4 arguments
+C:\Users\stipe\source\repos\VS_c\Vjezba5\Zadatak1\Zadatak1.cpp(36,7): message : see declaration of 'dot::lenght_2D'
+C:\Users\stipe\source\repos\VS_c\Vjezba5\Zadatak1\Zadatak1.cpp(63,38): error C3688: invalid literal suffix 'D'; literal operator or literal operator template 'operator ""D' not found
+C:\Users\stipe\source\repos\VS_c\Vjezba5\Zadatak1\Zadatak1.cpp(63,40): error C2660: 'dot::lenght_3D': function does not take 6 arguments
+C:\Users\stipe\source\repos\VS_c\Vjezba5\Zadatak1\Zadatak1.cpp(40,7): message : see declaration of 'dot::lenght_3D'
+C:\Users\stipe\source\repos\VS_c\Vjezba5\Zadatak1\Zadatak1.cpp(65,50): error C3688: invalid literal suffix 'D'; literal operator or literal operator template 'operator ""D' not found
+C:\Users\stipe\source\repos\VS_c\Vjezba5\Zadatak1\Zadatak1.cpp(65,77): error C3688: invalid literal suffix 'D'; literal operator or literal operator template 'operator ""D' not found
